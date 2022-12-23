@@ -1,0 +1,52 @@
+.body {
+  background: url(../img/backimg.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+.div1 {
+  width: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  margin: 12% auto;
+  padding: 50px 0;
+  color: #fff;
+  box-shadow: 0 0 20px 2px rgba(0);
+}
+.div-img {
+  text-align: center;
+}
+.input-1 {
+  background: rgba(0, 0, 0, 0.4);
+  width: 98%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  color: #fff;
+}
+.input-2 {
+  background: rgba(0, 0, 0, 0.4);
+  width: 98%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  color: #fff;
+}
+.input-3 {
+  background-color: green;
+  width: 100%;
+  color: aliceblue;
+  padding: 8px;
+  border-radius: 10px;
+}
+.button {
+  border-radius: 10px;
+  padding: 8px;
+  color: rgb(248, 242, 242);
+  background: blue;
+}
+a {
+  float: right;
+  color: #fff;
+  padding: 5px;
+  border-radius: 8px;
+  background: blue;
+  text-decoration: none;
+}
